@@ -2,9 +2,9 @@
 
 Hello! Have a look at info provided below for better orientation on this page (and, who knows, maybe some value, _secret_ information...).
 
-Welcome on my GH profile. You can find some of my recent projects here. I have divided content in “Repositories” tab into three sections, for better readability and clarity (and also because I care about UX). 
+Welcome to my GH profile. You can find some of my recent projects here. I have divided content in “Repositories” tab into three sections, for better readability and clarity (and also because I care about UX). 
 
-1. In section one (numbers from 1 to 3), you can find websites (mostly designed and coded by myself; one of them are inspired by PSD template). The details are important for me, so in some pages I also designed logos and created a textual content (if you like animal and Orwell you may like the Entire website too –  but don’t rush with scrolling down). I’ve used: HTML, CSS/SASS, Bootstrap, RWD, Grunt, Git and a pinch sense of humor.
+1. In section one (numbers from 1 to 3), you can find websites (mostly designed and coded by myself; one of them is inspired by PSD template). The details are important to me, so on some pages I also designed logos and created a textual content (if you like animal and Orwell you may like the Entire website too –  but don’t rush with scrolling down). I’ve used: HTML, CSS/SASS, Bootstrap, RWD, Grunt, Git and a pinch sense of humor.
 
 2. In section two no.: 4-8) I placed pure JS/jQuery projects. Used: HTML, CSS, Bootstrap, RWD, pure JS, jQuery, Ajax, API Grunt, Git and abuse “Why?!” question.
 
