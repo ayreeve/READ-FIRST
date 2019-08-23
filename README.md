@@ -12,5 +12,5 @@ Welcome to my GH profile. You can find some of my recent projects here. I have d
 
 At the top of each subpage, I’ve added link to the live version. If you are curious and inquisitive visitor (or you like to read stupid things), you are the reason why I’ve provided more extensive descriptions (at the bottom). It is also a place where a visual multi-device preview is contained.
 
-Feel free to contact me via e-mail (ayreeve@wp.pl) or LinkedIn (linkedin.com/in/kaja-bogaczewicz)
+Feel free to contact me via e-mail (ayreeve@wp.pl)
 
